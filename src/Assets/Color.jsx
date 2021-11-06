@@ -1,0 +1,1 @@
+const colors = ["A1EAFB","FDFDFD","FFCEF3","CABBE9"]
